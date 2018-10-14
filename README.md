@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Repo for Mona, to welcome new contributors on their PRs and issues.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It welcomes new contributors on their PRs and issues.
 
 ## Getting started
 
